@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"<Unnamed>","l":"BasicTariff"},{"p":"<Unnamed>","l":"DataTariff"},{"p":"<Unnamed>","l":"lab5"},{"p":"<Unnamed>","l":"MobileCompany"},{"p":"<Unnamed>","l":"RoamingTariff"},{"p":"<Unnamed>","l":"Tariff"}];updateSearchResults();
